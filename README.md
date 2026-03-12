@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kacpersienkiewicz
 - 👀 I’m interested in Data Analytics, Physics, Mathematics and the History of Science.
-- 🌱 I’m currently learning Tableau, some intermediate SQL, and Polars.
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me
+- 🌱 I’m currently learning C++, Java, Javascript
+<!--- - 💞️ I’m looking to collaborate on --->
+<!--- - 📫 How to reach me --->
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact:
 
