@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kacpersienkiewicz
-- 👀 I’m interested in Data Analytics, Physics, Mathematics and the History of Science.
+- 👀 I’m interested in Data Analytics, Computational Physics, and History of Science
 - 🌱 I’m currently learning Django, AWS, Snowflake
 - 😄 Pronouns: He/Him/His
 
