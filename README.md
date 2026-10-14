@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kacpersienkiewicz
 - 👀 I’m interested in Data Analytics, Computational Physics, and the History of Science.
-- 🌱 I’m currently learning Django, AWS, Snowflake
+- 🌱 I’m currently learning Django, AWS, Snowflake, Databricks
 - 😄 Pronouns: He/Him/His
 
 Most of my experience is working in Python using libraries like numpy, scikit-learn, matplotlib and similar for data analysis and science. I've created several visualizations, data explorations, and analyses.
