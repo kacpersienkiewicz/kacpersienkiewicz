@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Django, AWS, Snowflake, Databricks
 - 😄 Pronouns: He/Him/His
 
-Most of my experience is working in Python using libraries like numpy, scikit-learn, matplotlib and similar for data analysis and science. I've created several visualizations, data explorations, and analyses.
+Most of my experience is working in Python using libraries like numpy, scikit-learn, matplotlib, seaborn and others for data analysis and science. I've created several visualizations, data explorations, and analyses.
 
 More recently I picked up some basic data engineering skills and am currently working on a large project with those skills.
 
